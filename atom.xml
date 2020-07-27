@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jiajiazha.com</id>
-    <title>Gridea</title>
-    <updated>2020-06-11T14:01:44.766Z</updated>
+    <title>Mr Zha&apos;s blog.</title>
+    <updated>2020-07-27T11:47:09.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jiajiazha.com"/>
     <link rel="self" href="https://jiajiazha.com/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Welcome to Mr Zha&apos;s blog where he would like to share his life with you~
+欢迎来到查的博客~</subtitle>
     <logo>https://jiajiazha.com/images/avatar.png</logo>
     <icon>https://jiajiazha.com/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Mr Zha&apos;s blog.</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://jiajiazha.com/post/hello-gridea/</id>
@@ -40,6 +41,18 @@
 <p>未来，它一定会成为你离不开的伙伴</p>
 <p>尽情发挥你的才华吧！</p>
 <p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nice to meet you!]]></title>
+        <id>https://jiajiazha.com/post/nice-to-meet-you/</id>
+        <link href="https://jiajiazha.com/post/nice-to-meet-you/">
+        </link>
+        <updated>2018-07-27T11:10:38.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="️hi-guys"><strong>☀️Hi， guys！</strong></h1>
+<p><font size = 5  face="Times new roman"> This is Mr Zha, a postgraduate student😃. I would like to share some enjoyable details in my life with you here~</font></p>
+<h1 id="️️各位小伙伴们大家好"><strong>️☀️各位小伙伴们，大家好！</strong></h1>
+<p><font size = 5 face = "楷体"> 我是查，一名在读研究生😃。我会在这里分享生活中有趣的点点滴滴~</font></p>
 ]]></content>
     </entry>
 </feed>
