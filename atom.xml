@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jiajiazha.com</id>
     <title>Mr Zha&apos;s blog.</title>
-    <updated>2020-07-27T11:52:56.724Z</updated>
+    <updated>2020-07-27T12:24:17.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jiajiazha.com"/>
     <link rel="self" href="https://jiajiazha.com/atom.xml"/>
@@ -17,10 +17,11 @@
         <link href="https://jiajiazha.com/post/nice-to-meet-you/">
         </link>
         <updated>2018-07-27T11:10:38.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="️hi-guys"><strong>☀️Hi， guys！</strong></h1>
+        <content type="html"><![CDATA[<!-- more -->
+<h1 id="️hi-guys"><strong>☀️Hi， guys！</strong></h1>
 <p><font size = 5  face="Times new roman"> This is Mr Zha, a postgraduate student😃. I would like to share some enjoyable details in my life with you here~</font></p>
 <h1 id="️️各位小伙伴们大家好"><strong>️☀️各位小伙伴们，大家好！</strong></h1>
-<p><font size = 5 face = "楷体"> 我是查，一名在读研究生😃。我会在这里分享生活中有趣的点点滴滴~</font></p>
+<p><font size = 5 face = "楷体"> 我是查，一名在读研究生😃。我会在这里分享生活中一些有趣的瞬间~</font></p>
 ]]></content>
     </entry>
 </feed>
