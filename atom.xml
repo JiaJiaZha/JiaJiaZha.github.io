@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jiajiazha.com</id>
     <title>Mr Zha&apos;s blog.</title>
-    <updated>2020-07-28T07:18:37.094Z</updated>
+    <updated>2020-07-28T07:20:05.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jiajiazha.com"/>
     <link rel="self" href="https://jiajiazha.com/atom.xml"/>
@@ -28,7 +28,7 @@
 <h2 id="学习建议">学习建议：</h2>
 <p><font size = 4 face = '宋体' color = 0099ff>建议先看《<em>Python语言及其应用</em>》（或者《<em>Python核心编程</em>》，但是这本书主要讲的是Python2版本，内容有点落后，实际上不太建议按照这本书进行学习），之后再跟着《<em>Python编程：从入门到实践</em>》里的例子做一遍，基本Python语法就算是掌握了。最后有时间的话看看Python3中文教程进行查漏补缺。</font></p>
 <h1 id="计算机科学">计算机科学：</h1>
-<h2 id="学习资料目录ff">学习资料目录：ff</h2>
+<h2 id="学习资料目录">学习资料目录：</h2>
 <h3 id="1mit-600计算机科学及编程导论视频公开课">1.MIT-600计算机科学及编程导论视频公开课</h3>
 <h3 id="2计算机组成与设计-硬件软件接口">2.《<em>计算机组成与设计 硬件软件接口</em>》</h3>
 <h3 id="3计算机程序的构造和解释">3.《<em>计算机程序的构造和解释</em>》</h3>
@@ -39,14 +39,14 @@
 《<em>计算机程序的构造和设计</em>》是以Scheme语言讲解计算机的计算思维。<br>
 《<em>Automate the Boring Stuff with Python</em>》建议作为Python学习的补充资料。</font></p>
 <h1 id="python网络数据采集">Python网络数据采集</h1>
-<h2 id="学习资料目录">学习资料目录：</h2>
+<h2 id="学习资料目录-2">学习资料目录：</h2>
 <h3 id="1http权威指南">1.《<em>HTTP权威指南</em>》</h3>
 <h3 id="2css权威指南第三版">2.《<em>CSS权威指南（第三版）</em>》</h3>
 <h3 id="3python网络数据采集">3.《<em>Python网络数据采集</em>》</h3>
 <h2 id="学习建议-3">学习建议：</h2>
 <p><font size = 4 face = '宋体' color = 0099ff>前面两本书主要介绍互联网的基本构架原理。而《<em>Python网络数据采集</em>》则一步步引导使用Python收集互联网上的数据。</font></p>
 <h1 id="machine-learning">Machine Learning</h1>
-<h2 id="学习资料目录-2">学习资料目录：</h2>
+<h2 id="学习资料目录-3">学习资料目录：</h2>
 <h3 id="1深度学习入门基于python的理论与实现">1.《<em>深度学习入门：基于Python的理论与实现</em>》</h3>
 <h3 id="2斯坦福大学机器学习课程原始讲义">2.《<em>斯坦福大学机器学习课程原始讲义</em>》</h3>
 <h3 id="3adaptive-computation-and-machine-learningdaphne-koller_nir-friedman-probabilities-graphical-models_principles-and-techniques-mit-press">3.（Adaptive computation and machine learning）Daphne Koller_Nir Friedman-Probabilities graphical models_principles and techniques-MIT press</h3>
@@ -59,7 +59,7 @@
 <h2 id="学习建议-4">学习建议：</h2>
 <p><font size = 4 face = '宋体' color = 0099ff>这是我科研之余收集的机器学习的资料，供有兴趣的小伙伴取阅。</font></p>
 <h1 id="fortran-95">Fortran 95</h1>
-<h2 id="学习资料目录-3">学习资料目录：</h2>
+<h2 id="学习资料目录-4">学习资料目录：</h2>
 <h3 id="1fortran95程序设计彭国伦">1.《<em>Fortran95程序设计</em>》(彭国伦)</h3>
 <h2 id="学习建议-5">学习建议：</h2>
 <p><font size = 4 face = '宋体' color = 0099ff>想要用Fortran90编写用于科学计算脚本的同学，可以看看这本书，上手比较简单。</font></p>
