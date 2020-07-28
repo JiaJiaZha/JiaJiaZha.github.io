@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jiajiazha.com</id>
     <title>Mr Zha&apos;s blog.</title>
-    <updated>2020-07-27T12:52:32.460Z</updated>
+    <updated>2020-07-28T07:18:37.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jiajiazha.com"/>
     <link rel="self" href="https://jiajiazha.com/atom.xml"/>
@@ -11,6 +11,63 @@
     <logo>https://jiajiazha.com/images/avatar.png</logo>
     <icon>https://jiajiazha.com/favicon.ico</icon>
     <rights>All rights reserved 2020, Mr Zha&apos;s blog.</rights>
+    <entry>
+        <title type="html"><![CDATA[Python等编程语言学习资料分享]]></title>
+        <id>https://jiajiazha.com/post/python-deng-bian-cheng-yu-yan-xue-xi-zi-liao-fen-xiang/</id>
+        <link href="https://jiajiazha.com/post/python-deng-bian-cheng-yu-yan-xue-xi-zi-liao-fen-xiang/">
+        </link>
+        <updated>2020-07-28T06:11:28.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>主要博客主要是关于Python编程语言，计算机科学以及机器学习方面书籍资料的分享。</p>
+<h1 id="关于python语言学习">关于Python语言学习：</h1>
+<h2 id="书籍分享目录">书籍分享目录：</h2>
+<h3 id="1python语言及其应用andpyhton核心编程">1.《<em>Python语言及其应用</em>》(and《<em>Pyhton核心编程</em>》)</h3>
+<h3 id="2python编程从入门到实践">2.《<em>Python编程：从入门到实践</em>》</h3>
+<h3 id="3python学习手册">3.《<em>Python学习手册</em>》</h3>
+<h3 id="4python科学计算第二版">4.《<em>Python科学计算第二版</em>》</h3>
+<h2 id="学习建议">学习建议：</h2>
+<p><font size = 4 face = '宋体' color = 0099ff>建议先看《<em>Python语言及其应用</em>》（或者《<em>Python核心编程</em>》，但是这本书主要讲的是Python2版本，内容有点落后，实际上不太建议按照这本书进行学习），之后再跟着《<em>Python编程：从入门到实践</em>》里的例子做一遍，基本Python语法就算是掌握了。最后有时间的话看看Python3中文教程进行查漏补缺。</font></p>
+<h1 id="计算机科学">计算机科学：</h1>
+<h2 id="学习资料目录ff">学习资料目录：ff</h2>
+<h3 id="1mit-600计算机科学及编程导论视频公开课">1.MIT-600计算机科学及编程导论视频公开课</h3>
+<h3 id="2计算机组成与设计-硬件软件接口">2.《<em>计算机组成与设计 硬件软件接口</em>》</h3>
+<h3 id="3计算机程序的构造和解释">3.《<em>计算机程序的构造和解释</em>》</h3>
+<h3 id="4automate-the-boring-stuff-with-python">4.《<em>Automate the Boring Stuff with Python</em>》</h3>
+<h2 id="学习建议-2">学习建议：</h2>
+<p><font size = 4 face = '宋体' color = 0099ff>其中MIT600-计算机科学及编程导论视频公开课是2008年麻省理工Prof. <em>Eric Grimson</em>和Prof. <em>John Guttag</em>以Python为例上的一门编程入门课，内容比较简单，一节课大概50分钟（请原谅渣画质导致的课上进行演示的代码看不清-。-）。<br>
+如果想要了解一些计算机软硬件入门知识的话，推荐阅读《<em>计算机组成与设计 硬件软件接口</em>》。<br>
+《<em>计算机程序的构造和设计</em>》是以Scheme语言讲解计算机的计算思维。<br>
+《<em>Automate the Boring Stuff with Python</em>》建议作为Python学习的补充资料。</font></p>
+<h1 id="python网络数据采集">Python网络数据采集</h1>
+<h2 id="学习资料目录">学习资料目录：</h2>
+<h3 id="1http权威指南">1.《<em>HTTP权威指南</em>》</h3>
+<h3 id="2css权威指南第三版">2.《<em>CSS权威指南（第三版）</em>》</h3>
+<h3 id="3python网络数据采集">3.《<em>Python网络数据采集</em>》</h3>
+<h2 id="学习建议-3">学习建议：</h2>
+<p><font size = 4 face = '宋体' color = 0099ff>前面两本书主要介绍互联网的基本构架原理。而《<em>Python网络数据采集</em>》则一步步引导使用Python收集互联网上的数据。</font></p>
+<h1 id="machine-learning">Machine Learning</h1>
+<h2 id="学习资料目录-2">学习资料目录：</h2>
+<h3 id="1深度学习入门基于python的理论与实现">1.《<em>深度学习入门：基于Python的理论与实现</em>》</h3>
+<h3 id="2斯坦福大学机器学习课程原始讲义">2.《<em>斯坦福大学机器学习课程原始讲义</em>》</h3>
+<h3 id="3adaptive-computation-and-machine-learningdaphne-koller_nir-friedman-probabilities-graphical-models_principles-and-techniques-mit-press">3.（Adaptive computation and machine learning）Daphne Koller_Nir Friedman-Probabilities graphical models_principles and techniques-MIT press</h3>
+<h3 id="4python-in-practice20138mark_summerfield-文字版">4.《<em>Python in Practice</em>》(2013.8)Mark_Summerfield 文字版</h3>
+<h3 id="5挖掘社交网络mining-the-social-web">5.《<em>挖掘社交网络(Mining the Social Web)</em>》</h3>
+<h3 id="6building-machine-learning">6.《<em>Building Machine Learning</em>》</h3>
+<h3 id="7introduction-to-time-series-and-forecasting">7.《<em>Introduction to time series and forecasting</em>》</h3>
+<h3 id="8mly_v05_full_draft">8.《<em>MLY_V0.5_Full_Draft</em>》</h3>
+<h3 id="9sentiment-analysis-and-opinion-mining">9.《<em>Sentiment analysis and opinion mining</em>》</h3>
+<h2 id="学习建议-4">学习建议：</h2>
+<p><font size = 4 face = '宋体' color = 0099ff>这是我科研之余收集的机器学习的资料，供有兴趣的小伙伴取阅。</font></p>
+<h1 id="fortran-95">Fortran 95</h1>
+<h2 id="学习资料目录-3">学习资料目录：</h2>
+<h3 id="1fortran95程序设计彭国伦">1.《<em>Fortran95程序设计</em>》(彭国伦)</h3>
+<h2 id="学习建议-5">学习建议：</h2>
+<p><font size = 4 face = '宋体' color = 0099ff>想要用Fortran90编写用于科学计算脚本的同学，可以看看这本书，上手比较简单。</font></p>
+<p><font size = 5 face = '黑体'><mark><a href="https://pan.baidu.com/s/1NlxAqj5Lv6eFbYoy6-k1Cw">资料分享链接</a></mark><br>
+<mark>提取码：cljn</mark></font></p>
+<p><font size = 4 face = '黑体'> <a href="https://huaban.com/pins/881716811/">封面图片出处</a></font></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nice to meet you!]]></title>
         <id>https://jiajiazha.com/post/nice-to-meet-you/</id>
